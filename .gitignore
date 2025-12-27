@@ -144,4 +144,5 @@ vite.config.ts.timestamp-*
 .idea/
 
 # Imported Data 
-/data
+/data/ref
+/data/raw
